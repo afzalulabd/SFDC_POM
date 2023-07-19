@@ -13,10 +13,11 @@ tests -> Added two scenarios
 
 playwright.config.ts - > Screenshot , Reporter , Parallel execution , Headless , Video.
 
+Reports added with screenshot and video.
 
 Scenario :  Login to Salesforce application 
 Framework Status : In Progress
 Framework Enhancements :
 1. Data needs to be maintained external files.
 2. More pages needs to added
-3. 
+3. Report needs to be enhanced.
